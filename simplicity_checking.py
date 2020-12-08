@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[19]:
-
-
 print ( 'Input one number' )
 print()
 a = int (input () )
@@ -20,16 +14,3 @@ def isNumberPrime(n):
 b = isNumberPrime(a)
 print()
 print(a, 'Is prime number:',b)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
