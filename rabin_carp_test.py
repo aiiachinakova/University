@@ -1,7 +1,3 @@
-
-# In[9]:
-
-
 import unittest
 
 def rabin_karp(text, pattern):
@@ -90,10 +86,3 @@ class RabinKarpTest(unittest.TestCase):
 # Запуск тестов
 if __name__ == '__main__':
     unittest.main()
-
-
-# In[ ]:
-
-
-
-
