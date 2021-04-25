@@ -5,7 +5,7 @@ import random
 num = 50
 
 def pi_сalculate(x):
-    circle_size = 0
+    point_amount = 0
     for i in range(100000):
         x = random.uniform(0, 1)
         y = random.uniform(0, 1)
